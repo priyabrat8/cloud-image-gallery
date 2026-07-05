@@ -35,7 +35,7 @@ A simple image hosting web application built with **Node.js**, **Express.js**, a
 Clone the repository
 
 ```bash
-git clone https://github.com/priyabrat8/image-market.git
+git clone https://github.com/priyabrat8/cloud-image-gallery.git
 ```
 
 Move into the project directory
