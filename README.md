@@ -68,7 +68,7 @@ http://localhost:3000
 
 Watch the complete project walkthrough on YouTube to store files on Cloud (Azure Blob Storage):
 
-[![Watch the Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://youtu.be/YOUR_VIDEO_ID)
+[![Cloud Image Gallery Demo](https://img.youtube.com/vi/KdQE92PisBA/maxresdefault.jpg)](https://youtu.be/KdQE92PisBA)
 
 📺 Click the thumbnail above to watch the complete project walkthrough.
 
