@@ -51,7 +51,7 @@ CONTAINER_NAME=
 Clone the repository
 
 ```bash
-git clone https://github.com/priyabrat8/image-market.git
+git clone https://github.com/priyabrat8/cloud-image-gallery.git
 ```
 
 Switch to the Azure Blob Storage branch
