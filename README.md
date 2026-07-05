@@ -1,33 +1,74 @@
-# Image Upload and Accesss using Azure Storage Service and Node Js
+# ☁ Cloud Image Gallery (Azure Blob Storage)
 
----
-![Alt text](https://github.com/priyabrat8/image-market/blob/azure-blob-storage/demo1.png?raw=true "Demo")
-
-![Alt text](https://github.com/priyabrat8/image-market/blob/azure-blob-storage/demo3.png?raw=true "Demo")
+A cloud-based image hosting application built with **Node.js**, **Express.js**, **Azure Blob Storage**, and **Multer**. Images are uploaded directly to Azure Blob Storage and dynamically displayed in the gallery.
 
 ---
 
-## Environment Variables ⚙️
-```
-AZURE_BLOB_SAS_CONNECTION_STRING=''
-ACCOUNT_NAME=''
-CONTAINER_NAME=''
-```
+## ✨ Features
+
+- 📤 Upload images to Azure Blob Storage
+- ☁ Cloud-based image storage
+- 🖼 Dynamic image gallery
+- ⚡ Express.js backend
+- 📱 Responsive interface
+- 🔒 Environment variable configuration
+
 ---
 
-## Technology Used 🚀
+## 🛠 Tech Stack
 
-**Frontend:**
+### Frontend
 - Handlebars
 - CSS
 - JavaScript
 
-**Backend:**
-- Node Js
-- Express Js
+### Backend
+- Node.js
+- Express.js
 
-**Middleware/ File Handling:**
+### File Upload
 - Multer
 
-**Cloud Storage:**
-- Azure Storage (Blob Storage)
+### Cloud Storage
+- Azure Blob Storage
+
+---
+
+## 🔧 Environment Variables
+
+Create a `.env` file.
+
+```env
+AZURE_BLOB_SAS_CONNECTION_STRING=
+ACCOUNT_NAME=
+CONTAINER_NAME=
+```
+
+---
+
+## 🚀 Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/priyabrat8/image-market.git
+```
+
+Switch to the Azure Blob Storage branch
+
+```bash
+git checkout azure-blob-storage
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Run the application
+
+```bash
+npm start
+```
+
